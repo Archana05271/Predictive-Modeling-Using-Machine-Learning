@@ -74,17 +74,17 @@ Visualization
 
 Project Structure
 
--student_data.csv
--model.ipynb
--README.md
+- student_data.csv
+- model.ipynb
+- README.md
 
 
 Conclusion
 This project successfully demonstrates predictive modeling using supervised learning techniques. By applying Decision Tree and Random Forest algorithms, the model was able to predict student performance effectively.
 
 Expected Outcome Achieved
-- Applied machine learning algorithms ✔  
-- Trained and tested models ✔  
-- Evaluated accuracy ✔  
-- Visualized performance ✔  
-- Gained understanding of supervised learning ✔  
+- Applied machine learning algorithms  
+- Trained and tested models   
+- Evaluated accuracy   
+- Visualized performance  
+- Gained understanding of supervised learning  
