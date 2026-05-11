@@ -80,6 +80,7 @@ Project Structure
 
 
 Conclusion
+
 This project successfully demonstrates predictive modeling using supervised learning techniques. By applying Decision Tree and Random Forest algorithms, the model was able to predict student performance effectively.
 
 Expected Outcome Achieved
